@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="8da17351-e5c8-4717-bfe7-b2f69b08a611" kpf_version="5" name="BADEL.komodoproject">
+<preference-set idref="8da17351-e5c8-4717-bfe7-b2f69b08a611">
+  <boolean id="configured">1</boolean>
+  <string id="koextgen.target">komodolang</string>
+</preference-set>
+</project>
